@@ -12,8 +12,7 @@ Wifi: Intel dual band Wireless-AC 7265
 
 Ethernet: Realtek 8111 Ethernet Network
 
-
-
+<hr></hr>
 Download full Bootable USB disk Data including Big Sur Image (For educational purposes) from:
 
 
