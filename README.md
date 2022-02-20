@@ -10,3 +10,10 @@ GPU: Intel HD 620
 Wifi: Intel dual band Wireless-AC 7265
 
 Ethernet: Realtek 8111 Ethernet Network
+
+
+
+Download full Bootable USB disk Data including Big Sur Image (For educational purposes) from:
+
+
+https://archive.org/details/hp-440-g-4-big-sur
