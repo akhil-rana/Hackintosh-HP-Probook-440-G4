@@ -2,7 +2,8 @@
 EFI for installing big sur on HP Probook 440G4 
  (Opencore v0.7.8)
  [Everything Works Except Fingerprint Sensor]
-
+ 
+ <hr></hr>
 CPU: i5-7200U
 
 GPU: Intel HD 620
