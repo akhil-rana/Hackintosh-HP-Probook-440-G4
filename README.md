@@ -6,7 +6,7 @@ EFI for installing big sur on HP Probook 440G4
  <hr></hr>
 CPU: i5-7200U
 
-GPU: Intel HD 620<br></br>Wifi: Intel dual band Wireless-AC 7265
+GPU: Intel HD 620<br>Wifi: Intel dual band Wireless-AC 7265
 
 Ethernet: Realtek 8111 Ethernet Network
 
