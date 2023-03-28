@@ -14,10 +14,12 @@ EFI for installing hackintosh on HP Probook 440G4
 Download EFI zips or full Bootable USB disk Data including System Images (For educational purposes) from releases section.
 
 Or you can directly clone the repository for the EFIs.
+<hr></hr>
 
 
 Backup mirror archive can be downloaded from here: https://archive.org/details/hp-440-g-4-big-sur
 
+<hr></hr>
 
 Credits:
 
