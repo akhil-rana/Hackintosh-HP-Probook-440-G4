@@ -17,3 +17,7 @@ Or you can directly clone the repository for the EFIs.
 
 
 Backup mirror archive can be downloaded from here: https://archive.org/details/hp-440-g-4-big-sur
+
+
+Credits:
+https://github.com/ssimondev/hackintosh for helping setting up Ventura 
