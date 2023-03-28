@@ -20,4 +20,5 @@ Backup mirror archive can be downloaded from here: https://archive.org/details/h
 
 
 Credits:
+
 https://github.com/ssimondev/hackintosh for helping setting up Ventura 
