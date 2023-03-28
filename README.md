@@ -11,7 +11,7 @@ EFI for installing hackintosh on HP Probook 440G4
 **Ethernet**: Realtek 8111 Network
 
 <hr></hr>
-Download EFI zips or full Bootable USB disk Data including System Images (For educational purposes) from releases section.
+Download EFI zips or full Bootable USB disk Data including System Images (For educational purposes) from [releases](https://github.com/akhil-rana/Hackintosh-HP-Probook-440-G4/releases) section.
 
 Or you can directly clone the repository for the EFIs.
 <hr></hr>
