@@ -1,4 +1,4 @@
-# HP Probook 440G4 - Hackintosh - Big Sur
+# HP Probook 440G4 - Hackintosh - Ventura/Monterey/BigSur
 EFI for installing hackintosh on HP Probook 440G4 
  [Everything Works Except Fingerprint Sensor]
 
