@@ -1,8 +1,8 @@
-# HP Probook 440G4 - Hackintosh - Ventura/Monterey/BigSur
+# HP Probook 440G4 - Hackintosh - MacOS Ventura/Monterey/BigSur
 EFI for installing hackintosh on HP Probook 440G4 
  [Everything Works Except Fingerprint Sensor]
 
-  Note: Use [heliport](https://github.com/OpenIntelWireless/HeliPort) to connect to WIFI on Ventura
+
  <hr></hr>
  
 **CPU**: i5-7200U<br>
